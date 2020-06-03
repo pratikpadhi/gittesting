@@ -13,7 +13,7 @@ public class AppTest
    @Test
    public void testcase()
    {
-	   System.out.println("Hello world");
+	   System.out.println("Hello world i am best");
    }
    
 }
