@@ -13,7 +13,7 @@ public class AppTest
    @Test
    public void testcase()
    {
-	   System.out.println("Hello world i am best after getting comitted");
+	   System.out.println("Bye Bye world i am best after getting comitted");
    }
    
 }
