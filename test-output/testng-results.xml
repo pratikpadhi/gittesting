@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="66" started-at="2020-06-05T22:41:04Z" finished-at="2020-06-05T22:41:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="66" started-at="2020-06-05T22:41:04Z" finished-at="2020-06-05T22:41:04Z">
+      <class name="test.git.demo.AppTest">
+        <test-method status="PASS" signature="testcase()[pri:0, instance:null(test.git.demo.AppTest)]" name="testcase" duration-ms="19" started-at="2020-06-05T22:41:04Z" finished-at="2020-06-05T22:41:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+      </class> <!-- test.git.demo.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
